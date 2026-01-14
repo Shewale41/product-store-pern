@@ -10,4 +10,3 @@ export const sql = neon(
     `postgresql://${PGUSER}:${PGPASSWORD}@${PGHOST}/${PGDATABASE}?sslmode=require&channel_binding=require`
 )
 //yeh sql function se we can write sql queries
-
