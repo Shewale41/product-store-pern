@@ -51,7 +51,7 @@ app.use(async (req,res,next)=>{
         }
         next()        
     } catch (error) {
-        console.log("Arcject error :"error);
+        console.log("Arcject error :",error);
         next(error);
     }
 });
