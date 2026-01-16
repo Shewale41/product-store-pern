@@ -18,7 +18,7 @@ function Navbar() {
                   className="font-semibold font-mono tracking-widest text-2xl
                   bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary"
                 >
-                    STORE
+                    WanderBuy
                 </span>
               </div>
             </Link>

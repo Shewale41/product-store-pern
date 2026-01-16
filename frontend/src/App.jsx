@@ -1,7 +1,7 @@
 import Navbar from "./Components/Navbar";
 
 import HomePage from "./Pages/HomePage";
-import ProductsPage from "./Pages/ProductsPage";
+import ProductsPage from "./Pages/ProductPage";
 
 import { Routes, Route } from "react-router-dom";
 import { useThemeStore } from "./store/useThemeStore";
